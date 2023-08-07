@@ -1,0 +1,6 @@
+steps:
+  backend:
+    image: alpine 
+    commands:
+	- echo Hello
+
