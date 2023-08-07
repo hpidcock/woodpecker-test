@@ -1,3 +1,7 @@
+labels:
+  platform: linux/amd64
+  size: small
+
 steps:
   backend:
     image: alpine 
